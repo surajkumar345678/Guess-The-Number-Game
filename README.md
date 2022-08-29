@@ -1,2 +1,2 @@
 # Guess-The-Number-Game
-Guess The Number Game using  JavaScript
+Guess The Number Game using JavaScript
